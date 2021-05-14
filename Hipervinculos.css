@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+}
+a{
+    font-style: italic;
+    text-align: center;
+    text-decoration: none;
+    display: inline-table;
+	margin-top: 200px;
+    font-size: 35px;
+    width: 450px;
+    color: #5CEEE4;
+}
+a:hover{
+    font-size: 36px;
+    text-shadow: 1px 2px #010000;
+}
+
+strong {
+    color: rgba(247,247,247,0.00);
+}
